@@ -1,1 +1,0 @@
-Utilize this YAML file of zip codes to lookup zip-codes in memory.  No more unnecessary calls to your database, but you do need to have the necessary ram in your VM.
