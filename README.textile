@@ -17,4 +17,9 @@ h3. Example
 ZIP_CODE.find('53012')
 => {"city"=>"CEDARBURG", "latitude"=>"+43.321475", "county"=>"OZAUKEE", "longitude"=>"-088.004033", "state"=>"WI"}
 
+
+h2. Want to contribute?
+
+Have you found this zip code database useful?  Well, as you can see, it's pretty old!  Please update me with a newer dataset of zip codes!
+
 Enjoy! 
